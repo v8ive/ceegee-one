@@ -12,6 +12,7 @@ See https://atproto.com/guides/applications for a guide through the codebase.
 ## Getting Started
 
 ```sh
+
 git clone https://github.com/bluesky-social/statusphere-example-app.git
 cd statusphere-example-app
 cp .env.template .env
